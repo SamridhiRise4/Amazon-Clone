@@ -2,10 +2,6 @@
 
 A pixel-perfect, fully responsive frontend clone of the Amazon homepage. This project was built from scratch using HTML5 and CSS3 to master advanced layout techniques, semantic structural design, and modern web styling practices. 
 
-### 🚀 Live Demo
-
-*Replace this text with your live deployment link (e.g., GitHub Pages, Vercel, or Netlify)* 
-
 ### ✨ Features
 
 * **Semantic HTML**: Built using modern structural tags (<header>, <footer>) for better accessibility.
