@@ -12,7 +12,6 @@ A pixel-perfect, fully responsive frontend clone of the Amazon homepage. This pr
 
 * **HTML5**: Structured markup and forms.
 * **CSS3**: Custom layout configurations, styling, hover transitions, and responsive design.
-
 ### 🔧 Installation & Usage
 
 1. Clone this repository to your local machine: 
