@@ -19,10 +19,10 @@ A pixel-perfect, fully responsive frontend clone of the Amazon homepage. This pr
 git clone https://github.com/SamridhiRise4//Amazon-Clone.git
 
 2. Navigate into the project folder:
-3. 
+
 cd Amazon-Clone
 
-Use code with caution.
+
 3. Open index.html in any web browser to view the project.
 
 ### 📜 License
